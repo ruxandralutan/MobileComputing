@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">GalleryApplication</string>
     <string name="map_key" translatable="false">
-        AIzaSyB-R5ujV1cHZUD4HvIRcQFNzncIOe9bCSI
+        API key
     </string>
 </resources>
